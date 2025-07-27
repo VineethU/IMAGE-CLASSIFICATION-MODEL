@@ -30,3 +30,10 @@ Computer Vision Tasks: It’s useful for any application where a computer needs 
 Real-time Image Sorting: Once trained, the model can be used in apps or websites that need to quickly figure out what’s in an image.
 
 Transfer Learning: You can also use this model as a starting point and tweak it for other image tasks, even if you don’t have a lot of training data.
+
+
+
+#OUTPUT  :
+
+
+![Image](https://github.com/user-attachments/assets/2dd7ef32-b6ee-4a23-82db-12c0d6002750)
