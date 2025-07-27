@@ -19,7 +19,7 @@ Tools and Libraries Used:
 
 6 . NumPy: Helps with number crunching and managing arrays, especially when working with image data like the   CIFAR-10 dataset.
 
-7 . Google Colab: I used Colab to run my code online. It’s great because it gives free access to GPUs, which speeds up    training. It’s also easy to share and use with others.
+7 . Google Colab: I used Colab to run my code online. It’s great because it gives free access to GPUs, which speeds up    training. It’s also easy to    share and use with others.
 
 #WHERE THIS CANE BE USED  :
 
