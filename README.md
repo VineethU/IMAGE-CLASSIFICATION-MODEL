@@ -13,13 +13,13 @@ Tools and Libraries Used:
 
 3 . Keras: It's a part of TensorFlow that makes it easier to build neural networks.
 
-4 . layers & models: These are tools from Keras that help set up the structure of the CNN (Convolutional Neural Network).
+4 . layers & models: These are tools from Keras that help set up the structure of the CNN (Convolutional Neural   Network).
 
 5 . Matplotlib: Used this to make graphs and visualize the model's accuracy and loss.
 
-6 . NumPy: Helps with number crunching and managing arrays, especially when working with image data like the CIFAR-10 dataset.
+6 . NumPy: Helps with number crunching and managing arrays, especially when working with image data like the   CIFAR-10 dataset.
 
-7 . Google Colab: I used Colab to run my code online. It’s great because it gives free access to GPUs, which speeds up training. It’s also easy to share and use with others.
+7 . Google Colab: I used Colab to run my code online. It’s great because it gives free access to GPUs, which speeds up    training. It’s also easy to share and use with others.
 
 #WHERE THIS CANE BE USED  :
 
