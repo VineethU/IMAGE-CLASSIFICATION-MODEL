@@ -1,7 +1,10 @@
 # IMAGE-CLASSIFICATION-MODEL
 
 
-#IMAGE CLASSIFICATION MODEL  : 
+#IMAGE CLASSIFICATION MODEL  :
+
+
+
 Tools and Libraries Used:
 
 Python: The main programming language I used to build the project.
