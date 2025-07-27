@@ -21,7 +21,7 @@ Tools and Libraries Used:
 
 7 . Google Colab: I used Colab to run my code online. It’s great because it gives free access to GPUs, which speeds up training. It’s also easy to share and use with others.
 
-#Where This Can Be Used:
+#WHERE THIS CANE BE USED  :
 
 Image Recognition: This kind of model can help in areas like identifying diseases in medical scans, detecting objects in self-driving cars, or even recognizing faces for security.
 
